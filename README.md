@@ -1,4 +1,4 @@
-## cota-mod11-notetaker
+## Cota-mod11-notetaker
 
 ## Description
 This is a note taker application that can be used to write, save and delete notes. This application uses an express backend and saves and retrieves data
